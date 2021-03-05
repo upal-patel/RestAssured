@@ -19,8 +19,8 @@ import static org.hamcrest.Matchers.*;
 public class Trello_Post {
 	
 	String id;
-	String key = "a8194b48255e8477ece3fb92dce660d8";
-	String token = "2a53e24aa86bc6ff898c30932b347c8d1cb785796c821241a36adf3bb7e8bb91";
+	String key = "Enter your key";
+	String token = "Enter your token";
 	//String name = "{qqqqqqqq}";
 	
 	//@Test
